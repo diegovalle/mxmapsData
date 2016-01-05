@@ -1,5 +1,3 @@
-#' Map of the counties of each of the 50 US states plus the district of columbia.
-#'
 #' Map of the all Mexican municipios and delegaciones
 #'
 #' A data.frame which contains a map of all Mexican municipios plus
