@@ -1,7 +1,7 @@
 #' Map of the 31 Mexican states plus the Federal District
 #'
 #' A data.frame which contains a map of all 31 Mexican States plus
-#' the Federal District.
+#' the Federal District in topoJSON format.
 #'
 #' @docType data
 #' @name mxstate.topoJSON
@@ -14,7 +14,7 @@ NULL
 #' Map of the all Mexican municipios and delegaciones
 #'
 #' A data.frame which contains a map of all Mexican municipios plus
-#' boroughs of the Federal District.
+#' boroughs of the Federal District in topoJSON format.
 #'
 #' @docType data
 #' @name mxmunicipio.topoJSON
