@@ -1,5 +1,22 @@
 # Sample .travis.yml for R projects
 
 language: r
+
+
+r_build_args: " "
+
+r_check_args: "--as-cran"
+
 warnings_are_errors: true
+
 sudo: required
+
+cran: http://cran.rstudio.com/
+
+apt_packages:
+  - texlive-binaries
+
+branches:
+  only:
+    - master
+    - development
