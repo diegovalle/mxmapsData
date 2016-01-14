@@ -3,14 +3,14 @@
 #' A data.frame which contains a map of all 31 Mexican States plus
 #' the Federal District.  The shapefile
 #' was modified using QGIS in order to remove
-#' the María islands, Socorro island, Arrecife Alacrán and
+#' the Maria islands, Socorro island, Arrecife Alacran and
 #' Guadalupe Island, then simplified with http://www.mapshaper.org/
 #'
 #' @docType data
 #' @name mxstate.map
 #' @usage data(mxstate.map)
-#' @references Downloaded from the "Cartografía Geoestadística Urbana y
-#' Rural Amanzanada. Planeación de la Encuesta Intercensal 2015" shapefiles
+#' @references Downloaded from the "Cartografia Geoestadistica Urbana y
+#' Rural Amanzanada. Planeacion de la Encuesta Intercensal 2015" shapefiles
 #' (https://gist.github.com/diegovalle/aa3eef87c085d6ea034f)
 #' @examples
 #' \dontrun{

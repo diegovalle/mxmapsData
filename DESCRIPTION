@@ -1,11 +1,14 @@
 Package: mxmapsData
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Maps used by the mxmaps package
 Version: 0.1
 Date: 2016-01-03
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Diego Valle-Jones
+Maintainer: Diego Valle-Jones <diego@diegovalle.net>
+Description: Mexico maps for the mxmaps package. 1) State 2) Hexbin 3) Municipio
+    4) State topoJSON 5) Municipio topoJSON.
+License: BSD_3_clause + file LICENSE
 LazyData: TRUE
+Depends:
+    R (>= 3.0.0)
 RoxygenNote: 5.0.0
